@@ -40,6 +40,12 @@
  php artisan queue:work
  ``` 
 
+6.
+ ```sh
+ cd CalendarBot
+ python bot.py
+ ```
+
 <li> <a href="http://test-its.ua/">http://test-its.ua/</a> </li>
 </ul>
 <p style="color:aquamarine">Проте також є простіша версія інсталяції проєкту<p>
@@ -78,6 +84,12 @@ git clone https://github.com/kachula-ivan/calendar.git
  ```sh
 php artisan serve
  ``` 
+
+6.
+ ```sh
+ cd CalendarBot
+ python bot.py
+ ```
 
 <li> <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> </li>
 </ul>
