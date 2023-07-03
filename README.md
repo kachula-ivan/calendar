@@ -8,7 +8,10 @@
 1. Клонувати репозиторій:
     ```sh
     git clone https://github.com/kachula-ivan/calendar.git
-    ``` 
+    ```
+     ```sh
+     cd calendar
+     ``` 
 
 2. 
     ```sh
@@ -54,7 +57,11 @@
 1. Клонувати репозиторій:
 ```sh
 git clone https://github.com/kachula-ivan/calendar.git
+```
+```sh
+ cd calendar
 ``` 
+
 
 2.
  ```sh
