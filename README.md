@@ -11,7 +11,9 @@
     ```
      ```sh
      cd calendar
-     ```  
+     ``` 
+
+2. 
     ```sh
     composer install
     ``` 
