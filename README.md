@@ -18,6 +18,12 @@
     composer install
     ``` 
 <li>  Просто створити базу даних, без таблиць(назва за замовчуванням: "test-its")</li>
+
+3. 
+    ```sh
+    cp .env.example .env
+    ```
+    
 <li>  Налаштувати .env файл</li>
 <li>  Зайти в "Налаштування" open server, підпункт "Домени"</li>
 <ul>
@@ -28,23 +34,23 @@
 </ul>
 <li>  Команди в консолі:</li>
 
-3.
+4.
  ```sh
  npm install
  npm run dev
  ``` 
 
-4.
+5.
  ```sh
  php artisan migrate:fresh --seed
  ``` 
 
-5.
+6.
  ```sh
  php artisan queue:work
  ``` 
 
-6.
+7.
  ```sh
  cd CalendarBot
  python bot.py
@@ -69,32 +75,38 @@ git clone https://github.com/kachula-ivan/calendar.git
  composer install
  ``` 
 <li>  Просто створити базу даних, без таблиць(назва за замовчуванням: "test-its")</li>
+
+3. 
+    ```sh
+    cp .env.example .env
+    ```
+    
 <li>  Налаштувати .env файл</li>
 
 <li>  Команди в консолі:</li>
 
-3.
+4.
  ```sh
  npm install
  npm run dev
  ``` 
 
-4.
+5.
  ```sh
  php artisan migrate:fresh --seed
  ``` 
 
-5.
+6.
  ```sh
  php artisan queue:work
  ``` 
 
-5.
+7.
  ```sh
 php artisan serve
  ``` 
 
-6.
+8.
  ```sh
  cd CalendarBot
  python bot.py
