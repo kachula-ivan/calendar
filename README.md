@@ -22,6 +22,7 @@
 3. 
     ```sh
     cp .env.example .env
+    php artisan key:generate
     ```
     
 <li>  Налаштувати .env файл</li>
@@ -79,6 +80,7 @@ git clone https://github.com/kachula-ivan/calendar.git
 3. 
     ```sh
     cp .env.example .env
+    php artisan key:generate
     ```
     
 <li>  Налаштувати .env файл</li>
