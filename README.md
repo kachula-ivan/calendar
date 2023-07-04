@@ -1,5 +1,4 @@
-# calendar
-<h2 style="color:cyan">Installation</h2>
+# Сalendar Installation
 <h3>Для початку потрібно запустити локальну мережу(xampp, mamp, openserver)</p>
 <p style="color:yellow">Я рекомендую додати домен <b>test-its.ua</b><p>
 <p>Ось як ви можете запустити проєкт локально</p>
