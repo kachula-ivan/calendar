@@ -30,6 +30,7 @@
 
 3.
  ```sh
+ npm install
  npm run dev
  ``` 
 
@@ -74,6 +75,7 @@ git clone https://github.com/kachula-ivan/calendar.git
 
 3.
  ```sh
+ npm install
  npm run dev
  ``` 
 
